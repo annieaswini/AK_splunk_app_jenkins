@@ -1,0 +1,355 @@
+{
+  "version": "1.0",
+  "date": "2022-11-12T14:17:04.062919046Z",
+  "hashAlgorithm": "SHA-256",
+  "app": {
+    "id": 3332,
+    "version": "2.0.4",
+    "files": [
+      {
+        "path": "README.md",
+        "hash": "f4be62d91dae8a115d4d62384e6c840c9f594f24c1eed5e0ec11b5947bac0398"
+      },
+      {
+        "path": "bin/constants.py",
+        "hash": "c39e376989490557d3b97baf7bd73e8be20002a7226052cf72047e458cac48cd"
+      },
+      {
+        "path": "bin/custom_index_handler.py",
+        "hash": "e41cc0b9b07e626b13a3925e8bc96cf395b0ae6183462581ffdaa67362cd04fc"
+      },
+      {
+        "path": "bin/custom_panel_handler.py",
+        "hash": "7654bd1f65bd6428b72a43a945ac4f948758dda6e83d65a01be16a2a1ee54983"
+      },
+      {
+        "path": "bin/user_validation_handler.py",
+        "hash": "9e9d6d4c6406db7b3127700cd31e57b93dd7aef99cdf274b8b09bfcb007e0a0b"
+      },
+      {
+        "path": "default/app.conf",
+        "hash": "837be782b041668a94a33ec6fde7d802193ace794f1944dfdc0aeeaecde9cd04"
+      },
+      {
+        "path": "default/collections.conf",
+        "hash": "ebe909a76716b4595255f3a3b413d802c0a1fd647e40009aba6df381473e9cec"
+      },
+      {
+        "path": "default/eventtypes.conf",
+        "hash": "c3515b75fe8952b0f1febd92d5deeb5f409e853670d3e4e7c4ca151fd83f4a5c"
+      },
+      {
+        "path": "default/indexes.conf",
+        "hash": "fae906111757724ac96a49903e6ae9c27b7062f05da2564339b14b88f9d4a8be"
+      },
+      {
+        "path": "default/macros.conf",
+        "hash": "5cab1e792e6998fa78a1c9d2395bc08af6710241024e62b73499a818f5aff327"
+      },
+      {
+        "path": "default/props.conf",
+        "hash": "cf85df68b02d51c75afa95f01b8ec01a0aaf0aee4c283fee06ba28ae7d8870b9"
+      },
+      {
+        "path": "default/restmap.conf",
+        "hash": "7e2d3285789d302d95c54c5f9e27bf3cc41cefa943173a1db5f676f213610a48"
+      },
+      {
+        "path": "default/savedsearches.conf",
+        "hash": "9d7ce383b05cd4eda52acb42ee8dbca439056d352e6f6c3c20719ed055d183b1"
+      },
+      {
+        "path": "default/tags.conf",
+        "hash": "4ab7503d95bdb2d463276da9ce3b39637213d50e39c3253438594ac9b4d86f80"
+      },
+      {
+        "path": "default/transforms.conf",
+        "hash": "dcb6161504e16c22fe0c1fc850d434f0c1a35320205cbb23034dba87a437e0a9"
+      },
+      {
+        "path": "default/web.conf",
+        "hash": "0d288bf9a6d88e262159820f51df223c4d7b8211505ae515c694f05e34dca5ea"
+      },
+      {
+        "path": "lookups/jenkins_job_path.csv",
+        "hash": "82dee5e39d5389e49f9c46bd15bccc6c4d83345c36895d172b6b87cbfa62b053"
+      },
+      {
+        "path": "metadata/default.meta",
+        "hash": "bd3524421f1bfa600c1191a10603b2994c7b9f8a1eb93442eb51718d73cc6a81"
+      },
+      {
+        "path": "static/appIcon.png",
+        "hash": "92d79cdb101c014328325973a5d803f39e41e4bbe1f47f8c9da647a7bc8d4a3b"
+      },
+      {
+        "path": "static/appIconAlt.png",
+        "hash": "ae195a259bbd16af3713c087bfeb314f7f0d67b498edeb5ac1060663a6d4f279"
+      },
+      {
+        "path": "static/appIconAlt_2x.png",
+        "hash": "bead6a93566f1a6dacaec88ffd208f93b699875aa819102afc045c2ef99fd237"
+      },
+      {
+        "path": "static/appIcon_2x.png",
+        "hash": "cc54d0a319fb8cf848de90c31fce2bc210c81515d96c2ab41d3e1749e326dee7"
+      },
+      {
+        "path": "appserver/templates/audit.html",
+        "hash": "635cc28a1331d7282e3910be045ff7fb9ed70c5a1c6cffb5f8d5e6afa92bee2f"
+      },
+      {
+        "path": "appserver/templates/build.html",
+        "hash": "3c400167da291b54b0c1c8a57ae42e76f3686742ff1d2ebfa6dbef6702d80123"
+      },
+      {
+        "path": "appserver/templates/configuration.html",
+        "hash": "ba9fb1224ac62b3da4ec7e3d3255f2e695ea476df4cb5711b7ef0ccfe8693c2b"
+      },
+      {
+        "path": "appserver/templates/health.html",
+        "hash": "83ca2c61d929075aeb2a44b316c0761ea4237412b12e30ff9d0c6256cd5db207"
+      },
+      {
+        "path": "appserver/templates/job.html",
+        "hash": "2911fb142aac5e514bd73020366d9294169acfd97e6d81dce32e3b8e010d33b9"
+      },
+      {
+        "path": "appserver/templates/node.html",
+        "hash": "98c64f4cd49f690af74b6024abe82921ae10c20313f8e08f2c7b6421a963f010"
+      },
+      {
+        "path": "appserver/templates/overview.html",
+        "hash": "d27be60a73e115ec0e22d39aaf58a892b69d0d13163a68b680786e6f320769fd"
+      },
+      {
+        "path": "appserver/templates/panel.html",
+        "hash": "85d5f0836501e026ed708bce561dc80d1b709ed97e4f50b33392e5b926897378"
+      },
+      {
+        "path": "appserver/templates/testAnalysis.html",
+        "hash": "7035d1c7c9b98c29b04120cd115703eede948e0659c10e130b6ceb09772a2e9d"
+      },
+      {
+        "path": "appserver/static/pages/audit.js",
+        "hash": "a2c4d163a457d531de6e3c5e6040bfc7a2baefaf39cc6db93ee1f2d1fe6285d2"
+      },
+      {
+        "path": "appserver/static/pages/build.js",
+        "hash": "f9614720376dc7e6a63338cb2af4a75f3e3ad965231a4586cc7341b78b9ba38f"
+      },
+      {
+        "path": "appserver/static/pages/commons~audit~build~configuration~health~job~node~overview~panel~testAnalysis.js",
+        "hash": "ec6a9492374ccb68e3687db4654e02fdb9f63bf37c49db1710c16fdb7e706c1d"
+      },
+      {
+        "path": "appserver/static/pages/commons~audit~build~health~job~node~overview~testAnalysis.js",
+        "hash": "77cacc74b13223b18be766f2dd90afcba0566ed97f4fcbb95009f84a7d39e1c4"
+      },
+      {
+        "path": "appserver/static/pages/commons~configuration~panel.js",
+        "hash": "3c8de9b1010c2ab4dac20b6b4ce44c307f2154479c0c928b4388a109f2c2c79b"
+      },
+      {
+        "path": "appserver/static/pages/configuration.js",
+        "hash": "978e1f6810b7711ddf1ef8f8c9c7461f5d82fc47cf1308344f13b99b8fa76570"
+      },
+      {
+        "path": "appserver/static/pages/health.js",
+        "hash": "0654bfdd111e07c75f91e518ee74379b266255f58ba36a7a2ad13fd329c17f2a"
+      },
+      {
+        "path": "appserver/static/pages/job.js",
+        "hash": "2395e485a97404b19435f9d13fd00d17beba260eee7991bd60bf39007898d984"
+      },
+      {
+        "path": "appserver/static/pages/node.js",
+        "hash": "71e4e936ccbb24d608638cfa02ce24280eda91017fe24ceea4fa6719a7c50f1b"
+      },
+      {
+        "path": "appserver/static/pages/overview.js",
+        "hash": "e2fa10cf5d5912cf8c323c4c489d8405aa9eb4332776f2c565a7c7bdad72ed0b"
+      },
+      {
+        "path": "appserver/static/pages/panel.js",
+        "hash": "46d804f00a301077d74c3360e7d3ccd2b0b78aaab765bd461a14f6e9f6afab5b"
+      },
+      {
+        "path": "appserver/static/pages/testAnalysis.js",
+        "hash": "d581eec151fc3e36b3deeb312061b56569c77fbcb8d7ba4f1f52129767ff078a"
+      },
+      {
+        "path": "bin/libs/splunklib/__init__.py",
+        "hash": "be4fcdaac9d15460035d79f97c2f4833b69a49bd50871c30ae06a4e01c05b3ed"
+      },
+      {
+        "path": "bin/libs/splunklib/binding.py",
+        "hash": "05202a63ef2c094f958edd4951d573602b5a2ff191b55e15fe39be419033481d"
+      },
+      {
+        "path": "bin/libs/splunklib/client.py",
+        "hash": "98b542e32391e8ffb9666d3a535da477973f1df66765e4277d4ce2534ee1323a"
+      },
+      {
+        "path": "bin/libs/splunklib/data.py",
+        "hash": "2d4c7006186b005851321c225447b0f890d81d00067285a7da58a56636475054"
+      },
+      {
+        "path": "bin/libs/splunklib/ordereddict.py",
+        "hash": "b222ad43a7c540661416297cbe429ac06aac3a11e0cf859161b85bcf1c4cd15d"
+      },
+      {
+        "path": "bin/libs/splunklib/results.py",
+        "hash": "6a6bdb1f77c2940c10c2f4e2d14b97bbde178c04fc9ac82217b4cae724451152"
+      },
+      {
+        "path": "bin/libs/splunklib/six.py",
+        "hash": "43a5af1176750c6100480a370863422642afdad3f2f3191298af951c4f4f6080"
+      },
+      {
+        "path": "bin/libs/splunklib/modularinput/__init__.py",
+        "hash": "6c7c88d29dc6b41a008db14211bb9489b1052b09c70f267364ec12e05bedd33b"
+      },
+      {
+        "path": "bin/libs/splunklib/modularinput/argument.py",
+        "hash": "386603096d45c3b3ec3328317adc334c7d981a6d5f77312b657c5463207e58d5"
+      },
+      {
+        "path": "bin/libs/splunklib/modularinput/event.py",
+        "hash": "c55fa7dfc338c4553c381def713feef1c965586068e411c658d6174dc7c93889"
+      },
+      {
+        "path": "bin/libs/splunklib/modularinput/event_writer.py",
+        "hash": "331a71f9cec08f5efcce14582061223644e391bf0868484762224b1a22c52bfb"
+      },
+      {
+        "path": "bin/libs/splunklib/modularinput/input_definition.py",
+        "hash": "444fd09df04b5c0d8985d12c86f7255734c129ca6963f92d43494e0251943cd7"
+      },
+      {
+        "path": "bin/libs/splunklib/modularinput/scheme.py",
+        "hash": "c25945b449d5f74318f4536b3d1dcea0885dcd55386e5685ece35a11c2f77a44"
+      },
+      {
+        "path": "bin/libs/splunklib/modularinput/script.py",
+        "hash": "29c6a4791e502069f5d9a4d9104e0ef730efd3afe5b816fd5d7e8f49c814cf49"
+      },
+      {
+        "path": "bin/libs/splunklib/modularinput/utils.py",
+        "hash": "83436d75504c83787ccca21a0dfbad8a280043232959de9137ce6daa7a9470c6"
+      },
+      {
+        "path": "bin/libs/splunklib/modularinput/validation_definition.py",
+        "hash": "a2b0f857f8589a9c6db87b2ffc685c3e785c183a079ca31253e2928539940b02"
+      },
+      {
+        "path": "bin/libs/splunklib/searchcommands/__init__.py",
+        "hash": "4499f53209862c3ea6abb43d5b50dc6b648b95cbbd4a349539e159c2f3cf1531"
+      },
+      {
+        "path": "bin/libs/splunklib/searchcommands/decorators.py",
+        "hash": "1114bc1cff0fb06578042bbd2a0b31902e942b0c080458c60d6aea887cb69b50"
+      },
+      {
+        "path": "bin/libs/splunklib/searchcommands/environment.py",
+        "hash": "997e76b662628010e782e22bcefccc1c5bbd5f2b039068ba58d9791ae50a293b"
+      },
+      {
+        "path": "bin/libs/splunklib/searchcommands/eventing_command.py",
+        "hash": "aafe6a0336b5e3eb7e6fd8bfb4c86c0b6fd8e3c2c77a08181b931d8a5d803e6e"
+      },
+      {
+        "path": "bin/libs/splunklib/searchcommands/external_search_command.py",
+        "hash": "9a5fbfe2a301671fccd0e62209ebc076945904b1bf8a1ee94d1b261256e7d9ad"
+      },
+      {
+        "path": "bin/libs/splunklib/searchcommands/generating_command.py",
+        "hash": "670fef6eba766405e53718ad530bed605bee6394175086ab9b6b380a8208f16f"
+      },
+      {
+        "path": "bin/libs/splunklib/searchcommands/internals.py",
+        "hash": "cb3bdd6b3ae22312f73d04f04b6066ce7efe9f49b3404a083d5e115b4db6d817"
+      },
+      {
+        "path": "bin/libs/splunklib/searchcommands/reporting_command.py",
+        "hash": "198aa65742ab1a8e75352186bdab95d09ba7fbb8f205a633aac6ff9926ab6a3b"
+      },
+      {
+        "path": "bin/libs/splunklib/searchcommands/search_command.py",
+        "hash": "8124a4c59b39ad9e797e720ab07a019b11ea6aca6cf871c3b6dfc48d96ce526e"
+      },
+      {
+        "path": "bin/libs/splunklib/searchcommands/streaming_command.py",
+        "hash": "426cde59e3d8cedf861c68a59a43787353e518001564bb3dfb4e7092edcfe58e"
+      },
+      {
+        "path": "bin/libs/splunklib/searchcommands/validators.py",
+        "hash": "43d7aae33501b98c67e7e1774720044b96c8a69f5d900c6efacfb408cd2b5057"
+      },
+      {
+        "path": "default/data/ui/nav/default.xml",
+        "hash": "2d79f0c6950b730b3a121c99d89108abe27317873b21a7bfa70b5fd52a5f5835"
+      },
+      {
+        "path": "default/data/ui/views/audit.xml",
+        "hash": "6b4cbcc876a3654c968cef9fdb9afdfcd508d267964546d64e4a410047bc77e8"
+      },
+      {
+        "path": "default/data/ui/views/build.xml",
+        "hash": "9e476f302cb1354cb6dc7dfc6246b23313e17f1786cc7a21f144eba9a0e81c62"
+      },
+      {
+        "path": "default/data/ui/views/configuration.xml",
+        "hash": "32aa024ab41025a1e753f4fdbb0da098c30ab152e4a971cd1fa81ba43bed85fe"
+      },
+      {
+        "path": "default/data/ui/views/health.xml",
+        "hash": "d975e4834e475cade42faaeb220fcbb16a8a9b38741ea716e471a7a08be3b12f"
+      },
+      {
+        "path": "default/data/ui/views/job.xml",
+        "hash": "59d92b75c2e73d8222e207370870653160da374e7a54f7fd5ccf000c75153798"
+      },
+      {
+        "path": "default/data/ui/views/node.xml",
+        "hash": "f1937c164bfedc8571524d1fc84b471e0eec54f5a5ff2d9bef7db53565c54fe7"
+      },
+      {
+        "path": "default/data/ui/views/overview.xml",
+        "hash": "9e4ccfaf36e5a8cdf85cca750ef89af430d7fed3e4e37b29f56de49801e406c1"
+      },
+      {
+        "path": "default/data/ui/views/panel.xml",
+        "hash": "393230f48c6d00a015cf1a9d743fb0baf1e2ae2f76dc738c0e831c7b5a078c43"
+      },
+      {
+        "path": "default/data/ui/views/testAnalysis.xml",
+        "hash": "41a91e5ff6e232adf34cde7c5f92f732aa066e9bafd8b00c7f7b8e91fe245734"
+      }
+    ]
+  },
+  "products": [
+    {
+      "platform": "splunk",
+      "product": "enterprise",
+      "versions": [
+        "7.3",
+        "8.0",
+        "8.1",
+        "8.2",
+        "9.0"
+      ],
+      "architectures": [
+        "x86_64"
+      ],
+      "operatingSystems": [
+        "windows",
+        "linux",
+        "macos",
+        "freebsd",
+        "solaris",
+        "aix"
+      ]
+    }
+  ]
+}
